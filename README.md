@@ -1,2 +1,2 @@
-# Ormacu
+# Ormuco
 Round 1
