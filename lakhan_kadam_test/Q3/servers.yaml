@@ -1,0 +1,25 @@
+Server1:
+  ip_address: 10.12.13.4
+  redis_client:
+    host: 'localhost'
+    port: 6379
+Server2:
+  ip_address: 192.12.34.4
+  redis_client:
+    host: 'localhost'
+    port: 6379
+Server3:
+  ip_address: 15.23.31.4
+  redis_client:
+    host: 'localhost'
+    port: 6379
+Server4:
+  ip_address: 214.23.52.4
+  redis_client:
+    host: 'localhost'
+    port: 6379
+Server5:
+  ip_address: 58.23.42.32
+  redis_client:
+    host: 'localhost'
+    port: 6379
